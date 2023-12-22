@@ -1,0 +1,19 @@
+[
+    
+            {
+                "id":1,
+                "date":"22/12/2023",
+                "userId":1,
+                "slotId":1,
+                "roomId":1
+            },
+            {
+                "id":2,
+                "date":"22/12/2023",
+                "userId":1,
+                "slotId":3,
+                "roomId":1
+            }
+        
+
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "roomName":"MeetingRoom 4 seater"
+    },
+    {
+        "id":2,
+        "roomName":"MeetingRoom 6 seater"
+    }
+    ,
+    {
+        "id":3,
+        "roomName":"MeetingRoom 8 seater"
+    }
+]
